@@ -11,6 +11,7 @@ gem 'uglifier', '>= 1.3.0'
 gem 'wetransfer'
 gem 'bootsnap', '>= 1.1.0', require: false
 gem 'dotenv-rails'
+gem 'retryable'
 
 group :development, :test do
   gem 'pry'
